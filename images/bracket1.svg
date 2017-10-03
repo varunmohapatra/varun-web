@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="220px" viewBox="0 0 20 220" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>bracket1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-2-Copy-4" transform="translate(-406.000000, -2561.000000)" fill="#2C2C3A">
+            <g id="bracket1" transform="translate(406.000000, 2561.000000)">
+                <rect id="Rectangle-17" x="0" y="0" width="5" height="220"></rect>
+                <rect id="Rectangle-17" x="0" y="0" width="20" height="5"></rect>
+                <rect id="Rectangle-17" x="0" y="215" width="20" height="5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
