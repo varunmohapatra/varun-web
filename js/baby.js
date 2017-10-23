@@ -3,7 +3,7 @@
 $(document).ready(function(){
 
             $.jribbble.setToken('171c0913c95d4abe56291ede214788b2be28cf801e6f22de7ef8f876cda11a85');
-            $.jribbble.users('vamoha').shots({per_page: 6}).then(function(shots) {
+            $.jribbble.users('vamoha').shots({per_page: 9}).then(function(shots) {
                 var html = [];
 
                 shots.forEach(function(shot) {
