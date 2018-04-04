@@ -2,7 +2,7 @@
 
 $(document).ready(function(){
 
-            $.jribbble.setToken('171c0913c95d4abe56291ede214788b2be28cf801e6f22de7ef8f876cda11a85');
+            $.jribbble.setToken('5b561cc716a357935924b1be20deece7e1d204b5239e23640ef0a536618cc37d');
             $.jribbble.users('vamoha').shots({per_page: 9}).then(function(shots) {
                 var html = [];
 
@@ -19,7 +19,7 @@ $(document).ready(function(){
                 setTimeout(function() {$(window).trigger('resize');}, 1000);
 
                 $.fn.fullpage.reBuild();
-                
+
             });
 
         });
